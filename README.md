@@ -2,6 +2,16 @@
 
 ### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
+<center>
+  <img src="https://github.com/GbrlSouza/www.global.com/blob/main/assets/img/page.jpg" alt="Page" width="100%" >
+</center>
+
+<div align="center" style="display: inline_block">
+  <a href="https://gbrlsouza.github.io/www.global.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</div>
+
+<hr/>
+
 Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
 The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
